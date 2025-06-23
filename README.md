@@ -17,7 +17,8 @@ A clean and stylish contact card component built with HTML and CSS to showcase p
   Customize the HTML and CSS to fit your style and details.
 
 # Technologies Used
-  HTML
+  HTML and
   CSS
+  
 ## Author
   Akhilesh Sharma
